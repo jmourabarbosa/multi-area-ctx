@@ -1,0 +1,1 @@
+{"dt": 100, "hidden_size": 3000, "lr": 0.001, "batch_size": 16, "seq_len": 240, "trial_dur": 24, "n_trials_seq": 10, "envid": "mycontext_no_input_training", "noise": 1, "env_kwargs": {"dt": 100, "sigma": 1}}
